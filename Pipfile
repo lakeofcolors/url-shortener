@@ -12,6 +12,7 @@ psycopg2 = "*"
 pytest-flask = "*"
 flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
+flasgger = "*"
 
 [dev-packages]
 
